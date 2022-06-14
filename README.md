@@ -1,6 +1,8 @@
 ## Olá! Eu sou Bandeira Magalhães
 
-- 🧑‍💻 Estudando para me tornar um Dev Front-end
+- 🌱 I’m currently learning  sobre programação 
+- 🤔 Cursando: Tecnológo em Redes de Computadores
+- 💬 Contata-me no e-mail: bandeiramagalhaesoficial@gmail.com
 
 <div align="center">
   <a href="https://github.com/bandeiramagalhaes">
