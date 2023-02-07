@@ -10,7 +10,7 @@
 
 ## 🧑🏽‍💻 About Me
 
-- Hello, my name is Antonio Bandeira, I'm 20 years old;
+- Hello, my name is Antonio Bandeira, I'm 21 years old;
 - Graduating in Computer Networks at the Federal University of Ceará, Quixadá campus;
 - Perfecting myself in development using React environment and other technologies for web and mobile;
 - Always one step at a time towards my goal!
