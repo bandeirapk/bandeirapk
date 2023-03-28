@@ -15,16 +15,7 @@
 - Perfecting myself in development using React environment and other technologies for web and mobile;
 - Always one step at a time towards my goal!
 
-## ✉️ Contact Me
-
-<div> 
-  <a href = "mailto:bandeiramagalhaesoficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bandeira-magalh%C3%A3es/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.instagram.com/bandeirapk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-</div>
-
 ##
-
 
 <div align="center">
   <a href="https://github.com/bandeirapk">
@@ -32,3 +23,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandeirapk&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
+## ✉️ Contact Me
+
+<div> 
+  <a href = "mailto:bandeiramagalhaesoficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bandeira-magalh%C3%A3es/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.instagram.com/bandeirapk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+</div>
