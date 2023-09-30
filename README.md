@@ -1,4 +1,4 @@
-![github-header-image](https://user-images.githubusercontent.com/85970097/201445535-f37219f7-74d6-4bd7-870b-ece7495a594b.png)
+<!-- ![github-header-image](https://user-images.githubusercontent.com/85970097/201445535-f37219f7-74d6-4bd7-870b-ece7495a594b.png) -->
 
 ## 🚀 Technologies
 
@@ -12,7 +12,7 @@
 
 - Hello, my name is Antonio Bandeira, I'm 21 years old;
 - Graduating in Computer Networks at the Federal University of Ceará, Quixadá campus;
-- Perfecting myself in development using React environment and other technologies for web and mobile;
+- Improving myself in web and mobile development using DevOps tools to automate software development and improve collaboration, software delivery and systems stability;
 - Always one step at a time towards my goal!
 
 ##
