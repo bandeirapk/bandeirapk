@@ -4,7 +4,7 @@
 
 ## 🧑🏽‍💻 About Me
 
-- Hello, my name is Antonio Bandeira, I'm 21 years old;
+- Hello, my name is Antonio Bandeira, I'm 22 years old;
 - Graduating in Computer Networks at the Federal University of Ceará, Quixadá campus;
 - Improving myself in web and mobile development using DevOps tools to automate software development and improve collaboration, software delivery and systems stability;
 - Always one step at a time towards my goal!
