@@ -34,7 +34,7 @@
 
 #### Studying in this moment:
 
-[![Studying](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)&nbsp;
+[![Studying](https://skillicons.dev/icons?i=nodejs,html,css)](https://skillicons.dev)&nbsp;
 
 #### Databases:
 
