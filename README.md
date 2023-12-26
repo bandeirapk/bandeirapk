@@ -1,4 +1,3 @@
-
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/bandeirapk/bandeirapk/blob/main/github-header-image.png" />
 &nbsp;&nbsp;&nbsp;
 
@@ -35,7 +34,7 @@
 
 #### Studying in this moment:
 
-[![Studying](https://skillicons.dev/icons?i=ansible,vue)](https://skillicons.dev)&nbsp;
+[![Studying](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)&nbsp;
 
 #### Databases:
 
