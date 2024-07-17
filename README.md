@@ -5,7 +5,7 @@
 
 - Hello, my name is Antonio Bandeira, I'm 22 years old;
 - Graduating in Computer Networks at the Federal University of Ceará, Quixadá campus;
-- Improving myself in web and mobile development using DevOps tools to automate software development and improve collaboration, software delivery and systems stability;
+- Constantly improving in Cloud Computing, SRE, DevOps and mobile development
 - Always one step at a time towards my goal!
 
 <br />
@@ -23,26 +23,19 @@
 ## 🚀 My Skills
 
 #### Main Stack:
-  [![MainStack](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,bash,github)](https://skillicons.dev)
+  [![MainStack](https://skillicons.dev/icons?i=nodejs,bash,github,git,aws,kubernetes,docker,terraform,jenkins)](https://skillicons.dev)
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
-[![SecondaryStack](https://skillicons.dev/icons?i=docker,kubernetes,aws,cpp,java,styledcomponents)](https://skillicons.dev)
-
-#### Studying in this moment:
-
-[![Studying](https://skillicons.dev/icons?i=nodejs,html,css)](https://skillicons.dev)&nbsp;
+[![SecondaryStack](https://skillicons.dev/icons?i=react,styledcomponents)](https://skillicons.dev)
 
 #### Databases:
 
 [![Databases](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)&nbsp;
 
-#### Workstation Tools:
-
-[![Tools](https://skillicons.dev/icons?i=vscode,linux,figma,eclipse,git)](https://skillicons.dev)&nbsp;&nbsp;
 
 &nbsp;
 &nbsp;
